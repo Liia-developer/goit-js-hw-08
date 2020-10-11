@@ -35,6 +35,7 @@ body {
   list-style: none;
   margin-left: auto;
   margin-right: auto;
+  /* outline: 2px solid red; */
 }
 
 .gallery__item {
